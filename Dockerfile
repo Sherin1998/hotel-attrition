@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python
 COPY --chown=node:node . ./
 WORKDIR /app
 RUN pip install -r requirements.txt
