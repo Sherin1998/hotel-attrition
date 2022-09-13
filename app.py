@@ -1,3 +1,7 @@
+
+"""importing libraries"""
+
+
 import numpy as np
 import pickle
 import streamlit as st
@@ -5,7 +9,7 @@ import sklearn
 from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
 
-
+"loading models"
 loaded_model=pickle.load((open('svmmodel.pkl','rb')))
 scaler_model=pickle.load((open('scaler.pkl','rb')))
 
