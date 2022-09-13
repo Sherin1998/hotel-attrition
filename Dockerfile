@@ -1,6 +1,4 @@
-FROM python
-COPY --chown=node:node . ./
-WORKDIR /app
+FROM python:3.7
+ADD app.py .
 RUN pip install -r requirements.txt
-EXPOSE $PORT
-CMD gunicorn --workers=4 -bind 0.0.0.0:$PORT app:app
+CMD ["python","./app.py"]
