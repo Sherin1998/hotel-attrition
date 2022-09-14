@@ -50,7 +50,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 
 ## Tools Used
-Pycharm,JupyterNotebook,Github,Heroku,streamlit
+Pycharm,Google Colab,Github,Heroku,streamlit
 
 
 
