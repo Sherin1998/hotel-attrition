@@ -19,10 +19,12 @@ Link: https://customerhotel.herokuapp.com/
 
 
 ## Overview
-This is a streamlit app for prediction of customer arrival in a hotel
+Every hotels wish to retain their customers and attract many others by providing promotional offers
+This is a streamlit app for prediction of customer arrival in a hotel.
 
 ## Motivation
-To get correct prediction of whether a customer will check in a hotel based on input parameters.This allows them to expand promotional offers and improve facilities and rectify the issues where they lack
+To get correct prediction of whether a customer will check in a hotel based on input parameters.This allows them to expand promotional offers and improve facilities and rectify the area where the improvement is nedded.Data obtained from hotels database containing necessary details of their duration of visit,home Country,preferred room of stay .
+
 ## Installation
 The Code is written in Python 3.7. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
@@ -35,6 +37,8 @@ Login or signup in order to create virtual app. You can either connect your gith
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
+
 
 ## Directory Tree 
 ```
