@@ -80,8 +80,11 @@ pip freeze>requiremnets.txt
 
 ## Challenges
 . Data required extensive cleaning
+
 . Removal of duplicate data
+
 . Business Understanding
+
 . Memory constraints
 
 
