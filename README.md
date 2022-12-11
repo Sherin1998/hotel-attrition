@@ -8,6 +8,7 @@
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Tools Used](#bug---feature-request)
+  * [Challenges](#bug---feature-request)
  
 
 
@@ -75,6 +76,15 @@ activate hotelattrition
 cd file location
 
 pip freeze>requiremnets.txt
+
+
+## Challenges
+. Data required extensive cleaning
+. Removal of duplicate data
+. Business Understanding
+. Memory constraints
+
+
 
 
 
